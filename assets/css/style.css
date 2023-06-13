@@ -1,0 +1,18 @@
+/* Estilos customizados */
+
+.card-img-top {
+    object-fit: cover;
+    /* Redimensiona a imagem mantendo a proporção */
+    height: 200px;
+    /* Defina a altura desejada para as imagens */
+}
+
+
+/* Estilos personalizados para o logotipo */
+
+.navbar-brand img {
+    max-width: 100px;
+    /* Defina a largura máxima desejada */
+    height: auto;
+    /* A altura será ajustada automaticamente para manter a proporção */
+}
