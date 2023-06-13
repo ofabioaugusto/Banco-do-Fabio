@@ -25,13 +25,13 @@ Concluído
 
 <div align="center">
   <a href="./src/01.png">
-    <img img="./src/01.png" alt="Imagem 01" width="250" height="250" class="img-thumbnail"/>
+    <img src="./src/01.png" alt="Imagem 01" width="250" height="250" class="img-thumbnail"/>
   </a>
   <a href="./src/02.png">
-    <img img="./src/02.png" alt="Imagem 02" width="250" height="250" class="img-thumbnail"/>
+    <img src="./src/02.png" alt="Imagem 02" width="250" height="250" class="img-thumbnail"/>
   </a>
   <a href="./src/03.png">
-    <img img="./src/03.png" alt="Imagem 03" width="250" height="250" class="img-thumbnail"/>
+    <img src="./src/03.png" alt="Imagem 03" width="250" height="250" class="img-thumbnail"/>
   </a>
 </div>
 
